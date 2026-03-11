@@ -3,8 +3,8 @@
 This project analyzes Airbnb listing and review data from Athens, Greece, comparing the years **2019** and **2023**. It was developed as part of the **Data Mining** course in the **Department of Informatics and Telecommunications (DIT)** at the **National and Kapodistrian University of Athens (NKUA/UoA)**.
 
 ## Team Members
-* **Χρήστος Πετρόπουλος** (1115202100156)
-* **Μαρίνα Παπαδημητρίου** (1115202100136)
+* **Christos Petropoulos  ** sdi2100156)
+* **Marina Papadimitriou** (sdi2100136)
 
 ## Project Overview
 
